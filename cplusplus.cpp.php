@@ -15,7 +15,7 @@ int n; n;//is number of all ticket
 int m; //the ticket we want to choose
 n = 10;
 m = 7;
-
+adault . 
 
 int array[10] = {25,27,3,12,9,15,6,30,21,19};
 
