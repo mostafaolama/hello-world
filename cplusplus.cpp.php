@@ -43,8 +43,10 @@ for(int i=0; i<n; i++){
             }
         }
 
-
+//sold out
+        
     }
 }
+    cout<<"today is 22 . 4. 2020 " <<endl; 
  cout<<"end"<<endl;
 }
